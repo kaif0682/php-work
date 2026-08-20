@@ -156,6 +156,7 @@ if (is_file($storageFile)) {
             </label>
             <nav class="menu">
                 <a href="services.php">Services</a>
+                <a href="Gallary.php">Gallery</a>
                 <a href="#about">About</a>
                 <a href="#process">Process</a>
                 <a href="#reviews">Reviews</a>

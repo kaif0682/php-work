@@ -38,6 +38,7 @@ $country = $countries[$countryCode];
             </a>
             <nav class="menu menu-static">
                 <a href="index.php#about">About</a>
+                <a href="Gallary.php">Gallery</a>
                 <a href="index.php#quote">Get Quote</a>
             </nav>
         </div>

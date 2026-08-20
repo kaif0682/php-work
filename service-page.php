@@ -81,6 +81,7 @@ foreach (site_countries() as $code => $entry) {
             </a>
             <nav class="menu menu-static">
                 <a href="services.php">Services</a>
+                <a href="Gallary.php">Gallery</a>
                 <a href="index.php#quote">Get Quote</a>
             </nav>
         </div>
